@@ -1,0 +1,18 @@
+{
+  "alias": ["Stepdeck"],
+  "weight": 48000,
+  "dimensions": [
+    {
+      "length": 132,
+      "width": 102,
+      "height": 102,
+      "name": "Front deck"
+    },
+    {
+      "length": 444,
+      "width": 102,
+      "height": 114,
+      "name": "Main deck"
+    }
+  ]
+}

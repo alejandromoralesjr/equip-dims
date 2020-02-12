@@ -1,0 +1,12 @@
+{
+  "alias": ["Sprinter Van"],
+  "weight": 3000,
+  "dimensions": [
+    {
+      "length": 170,
+      "width": 53,
+      "height": 72,
+      "name": "Sprinter Van"
+    }
+  ]
+}

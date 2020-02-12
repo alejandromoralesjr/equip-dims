@@ -1,0 +1,22 @@
+{
+  "name": "equip-dims",
+  "version": "1.0.0",
+  "description": "A package for finding equipment types based on given dimensions, or all equipment types.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index",
+    "test": "jest"
+  },
+  "keywords": [
+    "transportation",
+    "freight",
+    "equipment",
+    "dimensions"
+  ],
+  "author": "Alejandro Morales Jr",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "nodemon": "^2.0.2"
+  }
+}

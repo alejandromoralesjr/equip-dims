@@ -1,0 +1,30 @@
+{
+  "alias": ["Flatbed"],
+  "weight": 48000,
+  "dimensions": [
+    {
+      "length": 576,
+      "width": 102,
+      "height": 102,
+      "name": "48' Flatbed"
+    },
+    {
+      "length": 540,
+      "width": 102,
+      "height": 102,
+      "name": "45' Flatbed"
+    },
+    {
+      "length": 480,
+      "width": 96,
+      "height": 102,
+      "name": "40' Flatbed"
+    },
+    {
+      "length": 312,
+      "width": 96,
+      "height": 102,
+      "name": "26' Flatbed"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "alias": ["RGN", "Removable Gooseneck", "Lowboy", "Double Drop"],
+  "weight": 45000,
+  "dimensions": [
+    {
+      "length": 120,
+      "width": 102,
+      "height": 102,
+      "name": "Front deck"
+    },
+    {
+      "length": 348,
+      "width": 102,
+      "height": 144,
+      "name": "Main deck"
+    },
+    {
+      "length": 108,
+      "width": 102,
+      "height": 120,
+      "name": "Rear deck"
+    }
+  ]
+}

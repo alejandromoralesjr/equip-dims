@@ -1,0 +1,12 @@
+{
+  "alias": ["Dry Van"],
+  "weight": 44000,
+  "dimensions": [
+    {
+      "length": 630,
+      "width": 102,
+      "height": 102,
+      "name": "53' Dry Van"
+    }
+  ]
+}

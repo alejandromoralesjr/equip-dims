@@ -1,0 +1,12 @@
+{
+  "alias": ["Straight Truck", "Box Truck"],
+  "weight": 14000,
+  "dimensions": [
+    {
+      "length": 288,
+      "width": 91,
+      "height": 89,
+      "name": "24' Box Truck"
+    }
+  ]
+}

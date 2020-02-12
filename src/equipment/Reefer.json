@@ -1,0 +1,12 @@
+{
+  "alias": ["Reefer"],
+  "weight": 43000,
+  "dimensions": [
+    {
+      "length": 636,
+      "width": 102,
+      "height": 102,
+      "name": "53' Reefer"
+    }
+  ]
+}

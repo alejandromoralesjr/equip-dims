@@ -1,0 +1,12 @@
+{
+  "alias": ["Cargo Van"],
+  "weight": 2500,
+  "dimensions": [
+    {
+      "length": 50,
+      "width": 48,
+      "height": 46,
+      "name": "Cargo Van"
+    }
+  ]
+}
